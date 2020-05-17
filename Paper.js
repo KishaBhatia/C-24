@@ -24,7 +24,7 @@ class Paper{
         push();
         translate(pos.x,pos.y);
         ellipseMode(CENTER);
-        fill("yellowe");
+        fill("yellow");
         ellipse(0, 0,40,40);
         pop();
       
